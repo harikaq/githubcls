@@ -1,0 +1,6 @@
+Very good morning everyone
+Have a nice day guys.git
+J--untraced files
+A--changes to be commited(added)
+m--changes staged for commit(Modified)
+the class is going on.....
