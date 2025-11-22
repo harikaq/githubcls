@@ -4,3 +4,4 @@ J--untraced files
 A--changes to be commited(added)
 m--changes staged for commit(Modified)
 the class is going on.....
+bye bye
